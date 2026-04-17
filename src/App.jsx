@@ -233,9 +233,11 @@ export default function TakeTime() {
             marginTop: 40,
             background: ink,
             color: bone,
-            padding: "36px 28px 14px 28px",
+            padding: "26px 28px",
             transform: "skewY(-3deg)",
             transformOrigin: "left",
+            display: "flex",
+            alignItems: "center",
           }}
         >
           <div
